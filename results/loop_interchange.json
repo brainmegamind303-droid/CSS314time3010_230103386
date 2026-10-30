@@ -1,0 +1,6 @@
+{
+    "matrix_size_M": 512,
+    "naive_time_s": 0.3656327000062447,
+    "interchanged_time_s": 0.01714419999916572,
+    "speedup": 21.32690356062326
+}

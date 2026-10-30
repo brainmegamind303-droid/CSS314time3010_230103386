@@ -1,0 +1,11 @@
+{
+    "cpu_model": "Intel64 Family 6 Model 186 Stepping 2, GenuineIntel",
+    "system": "Windows",
+    "os_release": "11",
+    "machine": "AMD64",
+    "physical_cores": 12,
+    "logical_threads": 12,
+    "cache_line_bytes": 64,
+    "python_version": "3.13.14",
+    "python_implementation": "CPython"
+}

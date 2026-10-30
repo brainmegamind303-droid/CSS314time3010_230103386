@@ -1,0 +1,4 @@
+{
+    "arithmetic_intensity": 0.5,
+    "regime": "memory-bound"
+}
